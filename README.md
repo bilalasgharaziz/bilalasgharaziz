@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bilal Asghar Aziz ... and I'm a Software Quality Assurance Engineer ..., ....</h2>
+<h2 align="left">Hi 👋! My name is Bilal Asghar Aziz ... and I'm a Software Quality Assurance Engineer</h2>
 
 ###
 
